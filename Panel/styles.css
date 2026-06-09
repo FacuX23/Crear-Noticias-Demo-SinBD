@@ -1244,7 +1244,7 @@ gap: 0.25rem;
 padding: 0.75rem 0.5rem;
 font-size: 0.8rem;
 font-weight: 600;
-color: #2563eb;
+/* color: #2563eb; */ 
 cursor: pointer;
 border-radius: 50px;
 transition: all 0.2s;
@@ -1258,6 +1258,7 @@ transition: all 0.2s;
 .mobile-bottom-item.active {
     background: rgb(37 99 235 / 12%);
         box-shadow: 1px 1px 1px 0px rgb(37 99 255 / 39%) inset, -1px -1px 1px 0px rgb(200 232 255 / 60%) inset, 0px 0px 16px 0px rgba(var(--neutral-on-background), 0.08);
+    color: #2563eb;
 }
 
 .mobile-bottom-item.mobile-bottom-logout:hover {
