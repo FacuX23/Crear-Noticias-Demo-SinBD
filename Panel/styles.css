@@ -1219,7 +1219,7 @@ background: rgba(var(--neutral-on-background), 0.02);
 box-shadow: 1px 1px 1px 0px rgba(var(--neutral-background), 0.60) inset, 
            -1px -1px 1px 0px rgba(var(--neutral-background), 0.60) inset,
            0px 0px 16px 0px rgba(var(--neutral-on-background), 0.08);
-border-radius: 15px;
+border-radius: 50px;
 z-index: 40;
 padding: 0.5rem;
 }
@@ -1244,9 +1244,9 @@ gap: 0.25rem;
 padding: 0.75rem 0.5rem;
 font-size: 0.8rem;
 font-weight: 600;
-/* color: #64748b; */
+color: #2563eb;
 cursor: pointer;
-border-radius: 12px;
+border-radius: 50px;
 transition: all 0.2s;
 }
 
